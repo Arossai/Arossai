@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arossai
 - 👀 I’m interested in information security 🛡
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in school
+- 💞️ I’m looking to collaborate on large corporation
 - 📫 How to reach me ...
 
 <!---
